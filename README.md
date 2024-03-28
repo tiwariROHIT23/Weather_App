@@ -1,2 +1,4 @@
 # Weather_App
-I made this Weather app using HTML , CSS and JAVASCRIPT.
+See live here
+https://tiwarirohit23.github.io/Weather_App/
+
